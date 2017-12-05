@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWars.Classes.WeightSort
 {
+    //Checking github commits
     public class Weight
     {
         public Weight(string originalWeight)
